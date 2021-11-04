@@ -5,7 +5,10 @@ function App() {
       <>
         <header className="mb-auto">
           <div>
-            <h3 className="float-md-start mb-0">Zvrot</h3>
+            <h3 className="float-md-start mb-0">
+              <span className="visually-hidden">Zvrot</span>
+              <img src="/assets/logo.png" alt="zvrot logo" className="img-fluid App-logo"></img>
+            </h3>
             <nav className="nav nav-masthead justify-content-center float-md-end">
               <a className="nav-link active" aria-current="page" href="#">Home</a>
               <a className="nav-link" href="#">Features</a>
