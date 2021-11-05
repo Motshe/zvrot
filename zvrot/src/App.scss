@@ -76,3 +76,12 @@ a {
   color: $main-color !important;
 }
 
+.search {
+  position: relative;
+}
+
+.search svg {
+  position: absolute;
+  top: 12px;
+  right: 24px
+}

@@ -6,7 +6,7 @@ function Footer() {
     const items = [ "Kontakt", "Polityka Prywatności", "Cookies", "Regulamin", "O nas", "Reklama"];
     
     return (
-        <footer className="mt-auto bd-footer p-3 p-md-5 mt-5 bg-white text-center text-sm-left d-flex justify-content-between">
+        <footer className="mt-auto bd-footer p-3 p-md-5 mt-5 bg-light text-center text-sm-left d-flex justify-content-between">
                 <Nav className="navbar justify-content-start">
                     {items.map((item, i) => {
                         return <FooterItem key={item} text={item} />
