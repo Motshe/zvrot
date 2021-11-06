@@ -7,9 +7,9 @@ function Footer() {
     
     return (
         
-        <footer className="mt-auto bd-footer bg-light text-center text-sm-left">
+        <footer className="mt-auto bd-footer bg-white text-center text-sm-left">
             <Container>
-                <Row className="pt-3">
+                <Row className="pt-2">
                     <Col xs={12} md={6}>
                         <Nav className="navbar justify-content-start align-content-start flex-wrap">
                             {items.map((item, i) => {

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700;900&display=swap');
 $main-color: #1a3633;
 
 .App {
@@ -5,7 +6,8 @@ $main-color: #1a3633;
 }
 
 .App-logo {
-  max-height: 50px;
+  max-height: 150px;
+  max-width: 300px;
   pointer-events: none;
 }
 
@@ -84,4 +86,23 @@ a {
   position: absolute;
   top: 12px;
   right: 24px
+}
+
+.text-dark {
+  color: $main-color !important;
+}
+
+.bg-image {
+  position: fixed;
+  z-index: -1;
+}
+
+h3.spartan-txt {
+  font-family: 'Spartan';
+  font-weight: 700;
+}
+
+p.spartan-txt {
+  font-family: 'Spartan';
+  font-weight: 500;
 }
