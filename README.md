@@ -24,7 +24,7 @@ Coming soon...
 
 :woman_technologist: CMO - Ola P https://www.linkedin.com/in/polowska/
 
-:woman_technologist: CTO - Frontend - Weronika https://github.com/vieraboschkova
+:woman_technologist: CTO - Weronika https://github.com/vieraboschkova
 
 :woman_technologist: COO - Ola B - https://pl.linkedin.com/in/aleksandra-bogutska-482433213
 
