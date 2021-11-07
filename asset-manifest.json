@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zvrot/static/css/main.ee591bae.chunk.css",
-    "main.js": "/zvrot/static/js/main.9791d24f.chunk.js",
-    "main.js.map": "/zvrot/static/js/main.9791d24f.chunk.js.map",
+    "main.js": "/zvrot/static/js/main.bf8e15c4.chunk.js",
+    "main.js.map": "/zvrot/static/js/main.bf8e15c4.chunk.js.map",
     "runtime-main.js": "/zvrot/static/js/runtime-main.908aaa54.js",
     "runtime-main.js.map": "/zvrot/static/js/runtime-main.908aaa54.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/zvrot/static/css/2.8c0e6b67.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.06ff43b9.chunk.js",
     "static/css/main.ee591bae.chunk.css",
-    "static/js/main.9791d24f.chunk.js"
+    "static/js/main.bf8e15c4.chunk.js"
   ]
 }
