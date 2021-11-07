@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button, Navbar, Container, Nav } from 'react-bootstrap'
+import logo from './logo.png';
 
 export default function Header() {
     return (
@@ -7,7 +8,7 @@ export default function Header() {
             <Navbar bg="white" expand="md">
                 <Container className="align-items-start">
                     <Navbar.Brand href="#home">
-                    <img src="/assets/logo.png" alt="zvrot logo" className="img-fluid App-logo"></img>
+                    <img src={logo} alt="zvrot logo" className="img-fluid App-logo"></img>
 
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" className="mt-4" />
