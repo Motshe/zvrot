@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/zvrot/static/css/main.0325927d.chunk.css",
-    "main.js": "/zvrot/static/js/main.987367af.chunk.js",
-    "main.js.map": "/zvrot/static/js/main.987367af.chunk.js.map",
+    "main.css": "/zvrot/static/css/main.ee591bae.chunk.css",
+    "main.js": "/zvrot/static/js/main.9791d24f.chunk.js",
+    "main.js.map": "/zvrot/static/js/main.9791d24f.chunk.js.map",
     "runtime-main.js": "/zvrot/static/js/runtime-main.908aaa54.js",
     "runtime-main.js.map": "/zvrot/static/js/runtime-main.908aaa54.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/zvrot/static/css/2.8c0e6b67.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9f52099d.chunk.js.map": "/zvrot/static/js/3.9f52099d.chunk.js.map",
     "index.html": "/zvrot/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/zvrot/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.0325927d.chunk.css.map": "/zvrot/static/css/main.0325927d.chunk.css.map",
+    "static/css/main.ee591bae.chunk.css.map": "/zvrot/static/css/main.ee591bae.chunk.css.map",
     "static/js/2.06ff43b9.chunk.js.LICENSE.txt": "/zvrot/static/js/2.06ff43b9.chunk.js.LICENSE.txt",
     "static/media/logo.1d89c1ad.png": "/zvrot/static/media/logo.1d89c1ad.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.908aaa54.js",
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.06ff43b9.chunk.js",
-    "static/css/main.0325927d.chunk.css",
-    "static/js/main.987367af.chunk.js"
+    "static/css/main.ee591bae.chunk.css",
+    "static/js/main.9791d24f.chunk.js"
   ]
 }
