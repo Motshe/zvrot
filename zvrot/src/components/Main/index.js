@@ -5,14 +5,14 @@ import RegistrationForm from './RegistrationForm'
 
 function Main() {
     return (
-        <Container className="mt-5 text-start d-flex flex-column h-100">
+        <Container className="mt-5 text-start d-flex flex-column h-100 justify-content-between">
             
-            <Row>
-                <Col xs={12} md={6} className="text-white">
+            <Row className="flex-grow-1">
+                <Col xs={12} md={6}>
                     <Description />
                 </Col>
                 <Col xs={12} md={6}>
-                    <Card style={{backgroundColor:"#fff9"}}>
+                    <Card className="h-100" style={{backgroundColor:"#fff9"}}>
                         <Card.Body className="p-5">
                             <RegistrationForm />
                         </Card.Body>
@@ -20,12 +20,12 @@ function Main() {
                 </Col>
             </Row>
             
-            <Row className="mt-auto" xs={12} md={8}>
-                <div class="search my-5"> 
+            <Row className="" xs={12} md={8}>
+                <div class="search my-5" > 
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
                         <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
                     </svg>
-                    <input type="text" class="form-control" placeholder="Szukaj w magazynach w całej Polsce"></input> 
+                    <input type="text" style={{backgroundColor:"#fff9"}} class="bg-light form-control py-3 px-4 spartan-txt" placeholder="Szukaj po magazynach w całej Polsce"></input> 
                 </div>
             </Row>
             

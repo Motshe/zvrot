@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700;900&display=swap');
 $main-color: #1a3633;
+$secondary-color: #014f52;
 
 .App {
   text-align: center;
@@ -74,8 +75,10 @@ li {
   list-style: none;
 }
 
-a {
-  color: $main-color !important;
+a, button {
+  // color: $main-color !important;
+  color: $secondary-color !important;
+  text-decoration: none;
 }
 
 .search {
@@ -84,12 +87,20 @@ a {
 
 .search svg {
   position: absolute;
-  top: 12px;
-  right: 24px
+  top: 22px;
+  right: 36px
+}
+
+.search .spartan-txt {
+  color: $secondary-color !important;
+  // color:red !important;
+  font-family: 'Spartan';
+  font-weight: 500;
 }
 
 .text-dark {
-  color: $main-color !important;
+  // color: $main-color !important;
+  color: $secondary-color !important;
 }
 
 .bg-image {

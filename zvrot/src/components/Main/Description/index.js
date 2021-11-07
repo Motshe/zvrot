@@ -11,7 +11,7 @@ function Description() {
                 Korzyści:
                 <ul>
                     <li>
-                        oszczęność pieniędzy
+                        oszczędność pieniędzy
                     </li>
                     <li>
                         łatwy dostęp do materiałów
