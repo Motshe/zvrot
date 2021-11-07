@@ -7,7 +7,7 @@ function Description() {
             <p className="spartan-txt">
                 Dzięki naszej zautomatyzowanej platformie już nigdy nie będziesz musiał@ martwić się nadwyżkami na magazynie!
             </p>
-            <p className="spartan-txt">
+            <div className="spartan-txt">
                 Korzyści:
                 <ul>
                     <li>
@@ -26,7 +26,7 @@ function Description() {
                         optymalizacja strat
                     </li>
                 </ul>
-            </p>
+            </div>
         </>
     )
 }
