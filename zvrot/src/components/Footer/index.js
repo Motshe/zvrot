@@ -19,6 +19,9 @@ function Footer() {
                     </Col>
                     <Col xs={12} md={6}>
                         <FooterSocialItems />
+                        <p className="text-start text-md-end ps-3" style={{fontSize:"14px;"}}>
+                            © Motshe. Wszystkie prawa zastrzeżone
+                        </p>
                     </Col>
                 </Row>
             </Container>
