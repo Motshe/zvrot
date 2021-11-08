@@ -50,3 +50,6 @@ materiałów w przemyśle.
 :woman_technologist: CMO - Ola P https://www.linkedin.com/in/polowska/
 
 :woman_technologist: CTO - Weronika https://github.com/vieraboschkova
+
+
+###### ©️MotsheTeam. Wszystkie prawa zastrzeżone.
