@@ -1,7 +1,7 @@
 # 🚢 ZVROT 
 
 
-Stworzona przez motshe team landing page zautomatyzowanej platformy do zarządzania nadwyżkami
+Stworzona przez MotsheTeam landing page zautomatyzowanej platformy do zarządzania nadwyżkami
 materiałów w przemyśle.
 
 
@@ -22,9 +22,8 @@ Coming soon...
 
 :woman_technologist: CEO i pomysłodawczyni - Dominika W https://www.linkedin.com/in/dominika-werdecka-392157a3/
 
+:woman_technologist: COO - Ola B - https://pl.linkedin.com/in/aleksandra-bogutska-482433213
+
 :woman_technologist: CMO - Ola P https://www.linkedin.com/in/polowska/
 
 :woman_technologist: CTO - Weronika https://github.com/vieraboschkova
-
-:woman_technologist: COO - Ola B - https://pl.linkedin.com/in/aleksandra-bogutska-482433213
-
