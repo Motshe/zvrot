@@ -1,21 +1,44 @@
 # 🚢 ZVROT 
-
+## 🏭 https://motshe.github.io/zvrot 🏭 
 
 Stworzona przez MotsheTeam landing page zautomatyzowanej platformy do zarządzania nadwyżkami
 materiałów w przemyśle.
 
 
-## 🏭 https://motshe.github.io/zvrot 🏭 
 
-Coming soon...
+### 🛳️ Problem
+- Brak miejsca w magazynie.
+- Zamrożone pieniądze.
+- Niepewne ceny. 
+- Brak możliwości zakupu małych ilości profesjonalnych produktów.
+- Zerwane łańcuchy dostaw.
+
 
 ## 🛳️ Dla kogo
 
-Coming soon...
+- Przemysł Stoczniowy w Polsce
+- Inne Branże przemysłowe w Polsce i w Europie
+- Indywidualni klienci poszukujący materiałów w dobrej cenie i wysokiej jakości
 
 ## 🛳️ Korzyści
 
-Coming soon...
+### ⚓ Kupujący 
+
+- znane ceny
+- łatwy dostęp do materiałów
+
+### ⚓ Sprzedający
+
+- miejsce w magazynie
+- oszczędność pieniędzy
+
+
+### ⚓ Wszyscy użytkownicy
+
+- Oszczędność pieniędzy
+- Nowi kontrahenci
+- Bezpieczne transakcje
+- Zweryfikowani kontrahenci
 
 ## 🛳️ Kim jesteśmy?
 
