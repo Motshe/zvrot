@@ -7,7 +7,7 @@ export default function Header() {
         <header>
             <Navbar bg="white" expand="md">
                 <Container className="align-items-start">
-                    <Navbar.Brand href="#home">
+                    <Navbar.Brand href="#">
                     <img src={logo} alt="zvrot logo" className="img-fluid App-logo"></img>
 
                     </Navbar.Brand>
@@ -15,10 +15,10 @@ export default function Header() {
 
                     <Navbar.Collapse id="basic-navbar-nav" className="flex-grow-0">
                         <Nav className="me-auto align-items-start align-items-md-center justify-content-center">
-                            <Nav.Link href="#home" className="me-md-3">
+                            <Nav.Link href="https://app.getresponse.com/site2/5420954d712159a6d277ee2ceb3f57bd/?u=QGscR&webforms_id=SyU4G" className="me-md-3">
                                 <strong>Ratujemy twoje straty!</strong>
                             </Nav.Link>
-                            <Nav.Link href="#login">
+                            <Nav.Link href="https://app.getresponse.com/site2/5420954d712159a6d277ee2ceb3f57bd/?u=QGscR&webforms_id=SyU4G">
                                 <Button variant="light">Logowanie</Button>
                             </Nav.Link>
                         </Nav>
