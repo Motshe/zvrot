@@ -47,8 +47,6 @@ materiałów w przemyśle.
 
 :woman_technologist: COO - Ola B - https://pl.linkedin.com/in/aleksandra-bogutska-482433213
 
-:woman_technologist: CMO - Ola P https://www.linkedin.com/in/polowska/
-
 :woman_technologist: CTO - Weronika https://github.com/vieraboschkova
 
 
